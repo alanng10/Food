@@ -73,3 +73,5 @@ Food is nutrient base.
 Food is bone strong in animal.
 
 Food has enough base nutrient for human body.
+
+Food has enough safe for eat by human.
