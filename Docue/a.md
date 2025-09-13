@@ -53,3 +53,15 @@ Food has park mark.
 Food has park cross.
 
 Food has major.
+
+Food has major on time.
+
+Food has major on econam.
+
+Food has major on body.
+
+Food has major on life.
+
+Food has major on feel.
+
+Food has major on effecon.
