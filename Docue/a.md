@@ -65,3 +65,7 @@ Food has major on life.
 Food has major on feel.
 
 Food has major on effecon.
+
+Food is ground base food only.
+
+Food is nutrient base.
