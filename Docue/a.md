@@ -69,3 +69,5 @@ Food has major on effecon.
 Food is ground base food only.
 
 Food is nutrient base.
+
+Food is bone strong in animal.
