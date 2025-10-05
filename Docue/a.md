@@ -79,3 +79,5 @@ Food has enough safe for eat by human.
 Food has enough base benefit for human.
 
 Food has enough base gain for human.
+
+Food has none knife orn any cute tool.
